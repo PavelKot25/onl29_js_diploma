@@ -1,0 +1,26 @@
+{
+  "name": "onl29_js_diploma",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelKot25/onl29_js_diploma.git"
+  },
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelKot25/onl29_js_diploma/issues"
+  },
+  "homepage": "https://github.com/PavelKot25/onl29_js_diploma#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}
